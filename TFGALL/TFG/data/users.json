@@ -1,0 +1,28 @@
+{
+    "users": [
+        {
+            "nombre": "Maria",
+            "apellidos": "Garcia Pizarro",
+            "username": "m",
+            "password": "62c66a7a5dd70c3146618063c344e531e6d4b59e379808443ce962b3abd63c5a",
+            "rutaFileGestos": "../data/users/m/gestos.txt",
+            "rutaFileEmociones": "../data/users/m/emociones.txt"
+        },
+        {
+            "nombre": "\u00c1lvaro",
+            "apellidos": "Garcia Pizarro",
+            "username": "a",
+            "password": "ca978112ca1bbdcafac231b39a23dc4da786eff8147c4e72b9807785afee48bb",
+            "rutaFileGestos": "../data/users/a/gestos.txt",
+            "rutaFileEmociones": "../data/users/a/emociones.txt"
+        },
+        {
+            "nombre": "Alvaro",
+            "apellidos": "Garcia Pizarro",
+            "username": "alvarogarciapiz",
+            "password": "72337b5f37ded02c1b047fd2239cc1eb9f8d518d3cfd96a34f8be00bc4c25f48",
+            "rutaFileGestos": "TFG/data/users/alvarogarciapiz/gestos.txt",
+            "rutaFileEmociones": "TFG/data/users/alvarogarciapiz/emociones.txt"
+        }
+    ]
+}

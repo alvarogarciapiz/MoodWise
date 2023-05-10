@@ -1,0 +1,275 @@
+Se crearon correctamente los directorios del usuario a el 2023-03-21 13:55:29
+El usuario a se registró el 2023-03-21 13:55:29
+El usuario a hizo login el 2023-03-21 14:05:31
+El usuario a hizo login el 2023-03-21 14:05:55
+El usuario a hizo login el 2023-03-21 14:06:10
+El usuario a hizo login el 2023-03-21 14:06:32
+El usuario a hizo login el 2023-03-21 14:18:52
+El usuario a hizo login el 2023-03-21 14:19:18
+El usuario a hizo login el 2023-03-21 14:20:22
+El usuario a hizo login el 2023-03-21 15:52:45
+El usuario a hizo login el 2023-03-21 16:19:20
+El usuario a hizo login el 2023-03-21 16:19:35
+El usuario a hizo login el 2023-03-21 16:19:54
+El usuario a hizo login el 2023-03-21 16:28:32
+El usuario a hizo login el 2023-03-21 16:31:03
+El usuario a hizo login el 2023-03-21 16:32:47
+El usuario a hizo login el 2023-03-21 16:35:17
+El usuario a hizo login el 2023-03-21 19:37:12
+El usuario a hizo login el 2023-03-21 20:37:03
+El usuario a hizo login el 2023-03-21 20:40:22
+El usuario a hizo login el 2023-03-21 20:43:00
+El usuario a hizo login el 2023-03-21 22:44:45
+El usuario a hizo login el 2023-03-22 13:40:28
+El usuario a hizo login el 2023-03-22 13:46:14
+El usuario a hizo login el 2023-03-22 17:57:47
+El usuario a hizo login el 2023-03-22 18:03:45
+El usuario a registró gestos el 2023-03-22 18:03:48
+El usuario a registró emociones el 2023-03-22 18:03:49
+El usuario a visualizó estadísticas de gestos el 2023-03-22 18:03:51
+El usuario a visualizó estadísticas de emociones el 2023-03-22 18:03:55
+El usuario a exportó estadísticas de gestos el 2023-03-22 18:03:57
+El usuario a exportó estadísticas de emociones el 2023-03-22 18:03:59
+El usuario a hizo login el 2023-03-22 18:04:33
+El usuario a visualizó estadísticas de gestos el 2023-03-22 18:04:58
+El usuario a exportó estadísticas de gestos el 2023-03-22 18:05:06
+El usuario a hizo login el 2023-03-23 09:02:30
+El usuario a visualizó estadísticas de gestos el 2023-03-23 09:02:44
+El usuario a exportó estadísticas de gestos el 2023-03-23 09:02:54
+El usuario a hizo login el 2023-03-23 11:53:19
+El usuario a visualizó estadísticas de gestos el 2023-03-23 11:53:41
+El usuario a exportó estadísticas de gestos el 2023-03-23 11:54:14
+El usuario a hizo login el 2023-03-23 16:24:46
+El usuario a exportó estadísticas de gestos el 2023-03-23 16:24:49
+El usuario a hizo login el 2023-03-23 16:26:26
+El usuario a exportó estadísticas de emociones el 2023-03-23 16:26:29
+El usuario a hizo login el 2023-03-23 16:27:06
+El usuario a visualizó estadísticas de emociones el 2023-03-23 16:27:07
+El usuario a exportó estadísticas de emociones el 2023-03-23 16:27:12
+El usuario a hizo login el 2023-03-23 16:34:44
+El usuario a exportó estadísticas de gestos el 2023-03-23 16:34:49
+El usuario a hizo login el 2023-03-23 16:36:26
+El usuario a exportó estadísticas de gestos el 2023-03-23 16:36:27
+El usuario a hizo login el 2023-03-23 16:37:13
+El usuario a exportó estadísticas de gestos el 2023-03-23 16:37:14
+El usuario a hizo login el 2023-03-23 16:37:58
+El usuario a exportó estadísticas de gestos el 2023-03-23 16:37:59
+El usuario a hizo login el 2023-03-23 19:36:01
+El usuario a exportó estadísticas de gestos el 2023-03-23 19:36:02
+El usuario a hizo login el 2023-03-23 19:39:29
+El usuario a exportó estadísticas de gestos el 2023-03-23 19:39:29
+El usuario a hizo login el 2023-03-23 19:40:15
+El usuario a exportó estadísticas de gestos el 2023-03-23 19:40:16
+El usuario a hizo login el 2023-03-23 19:41:22
+El usuario a exportó estadísticas de gestos el 2023-03-23 19:41:23
+El usuario a hizo login el 2023-03-23 19:43:57
+El usuario a exportó estadísticas de emociones el 2023-03-23 19:43:58
+El usuario a hizo login el 2023-03-24 15:18:11
+El usuario a registró gestos el 2023-03-24 15:18:13
+El usuario a hizo login el 2023-03-24 15:19:48
+El usuario a registró gestos el 2023-03-24 15:19:49
+El usuario a registró gestos el 2023-03-24 15:52:26
+El usuario a registró gestos el 2023-03-24 15:52:29
+El usuario a registró gestos el 2023-03-24 15:53:04
+El usuario a hizo login el 2023-03-24 15:53:55
+El usuario a registró gestos el 2023-03-24 15:53:58
+El usuario a hizo login el 2023-03-25 13:12:44
+El usuario a visualizó estadísticas de gestos el 2023-03-25 13:12:47
+El usuario a visualizó estadísticas de emociones el 2023-03-25 13:12:59
+El usuario a exportó estadísticas de gestos el 2023-03-25 13:13:04
+El usuario a exportó estadísticas de gestos el 2023-03-25 13:13:14
+El usuario a hizo login el 2023-03-25 13:15:11
+El usuario a hizo login el 2023-03-25 13:32:05
+El usuario a exportó estadísticas de gestos el 2023-03-25 13:32:09
+El usuario a exportó estadísticas de gestos el 2023-03-25 13:32:15
+El usuario a exportó estadísticas de gestos el 2023-03-25 13:32:16
+El usuario a exportó estadísticas de gestos el 2023-03-25 13:32:17
+El usuario a hizo login el 2023-03-25 13:32:25
+El usuario a exportó estadísticas de gestos el 2023-03-25 13:32:26
+El usuario a exportó estadísticas de gestos el 2023-03-25 13:32:30
+El usuario a hizo login el 2023-03-25 14:05:12
+El usuario a registró gestos el 2023-03-25 14:05:13
+El usuario a hizo login el 2023-03-25 14:06:41
+El usuario a registró gestos el 2023-03-25 14:06:43
+El usuario a hizo login el 2023-03-25 14:07:10
+El usuario a registró gestos el 2023-03-25 14:07:11
+El usuario a hizo login el 2023-03-25 15:38:00
+El usuario a registró emociones el 2023-03-25 15:38:02
+El usuario a hizo login el 2023-03-25 15:39:55
+El usuario a registró emociones el 2023-03-25 15:39:56
+El usuario a hizo login el 2023-03-25 15:41:46
+El usuario a registró emociones el 2023-03-25 15:41:47
+El usuario a registró emociones el 2023-03-25 15:42:01
+El usuario a hizo login el 2023-03-25 15:42:52
+El usuario a registró emociones el 2023-03-25 15:42:54
+El usuario a hizo login el 2023-03-25 15:43:07
+El usuario a registró emociones el 2023-03-25 15:43:07
+El usuario a hizo login el 2023-03-25 15:43:25
+El usuario a registró emociones el 2023-03-25 15:43:27
+El usuario a hizo login el 2023-03-25 15:48:30
+El usuario a registró emociones el 2023-03-25 15:48:31
+El usuario a hizo login el 2023-03-25 15:49:24
+El usuario a registró gestos el 2023-03-25 15:49:25
+El usuario a hizo login el 2023-03-25 15:50:19
+El usuario a registró gestos el 2023-03-25 15:50:22
+El usuario a hizo login el 2023-03-25 15:50:58
+El usuario a registró gestos el 2023-03-25 15:50:59
+El usuario a hizo login el 2023-03-25 15:51:21
+El usuario a registró gestos el 2023-03-25 15:51:22
+El usuario a hizo login el 2023-03-25 16:03:07
+El usuario a registró gestos el 2023-03-25 16:03:08
+El usuario a hizo login el 2023-03-25 16:20:51
+El usuario a registró gestos el 2023-03-25 16:20:53
+El usuario a registró gestos el 2023-03-25 16:21:23
+El usuario a hizo login el 2023-03-25 16:21:50
+El usuario a registró gestos el 2023-03-25 16:21:51
+El usuario a hizo login el 2023-03-25 16:22:24
+El usuario a registró gestos el 2023-03-25 16:22:25
+El usuario a hizo login el 2023-03-25 16:23:47
+El usuario a registró gestos el 2023-03-25 16:23:49
+El usuario a hizo login el 2023-03-25 17:57:39
+El usuario a registró emociones el 2023-03-25 17:57:40
+El usuario a hizo login el 2023-03-25 17:58:00
+El usuario a registró emociones el 2023-03-25 17:58:02
+El usuario a hizo login el 2023-03-25 17:58:56
+El usuario a registró emociones el 2023-03-25 17:58:57
+El usuario a hizo login el 2023-03-26 12:57:41
+El usuario a registró emociones el 2023-03-26 12:57:54
+El usuario a visualizó estadísticas de gestos el 2023-03-26 12:57:56
+El usuario a exportó estadísticas de gestos el 2023-03-26 12:57:59
+El usuario a hizo login el 2023-03-26 12:58:40
+El usuario a visualizó estadísticas de emociones el 2023-03-26 12:58:41
+El usuario a exportó estadísticas de emociones el 2023-03-26 12:58:44
+El usuario a hizo login el 2023-04-06 12:25:00
+El usuario a registró gestos el 2023-04-06 12:25:22
+El usuario a registró emociones el 2023-04-06 12:25:24
+El usuario a visualizó estadísticas de gestos el 2023-04-06 12:25:27
+El usuario a visualizó estadísticas de emociones el 2023-04-06 12:25:37
+El usuario a exportó estadísticas de gestos el 2023-04-06 12:25:41
+El usuario a hizo login el 2023-04-10 17:31:18
+El usuario a hizo login el 2023-04-10 17:31:56
+El usuario a hizo login el 2023-04-11 12:19:21
+El usuario a hizo login el 2023-04-11 12:21:19
+El usuario a hizo login el 2023-04-11 12:22:00
+El usuario a registró gestos el 2023-04-11 12:22:10
+El usuario a registró emociones el 2023-04-11 12:22:12
+El usuario a hizo login el 2023-04-11 12:32:21
+El usuario a registró gestos el 2023-04-11 12:32:22
+El usuario a registró emociones el 2023-04-11 12:32:23
+El usuario a visualizó estadísticas de gestos el 2023-04-11 12:32:25
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:32:30
+El usuario a hizo login el 2023-04-11 12:33:34
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:33:37
+El usuario a hizo login el 2023-04-11 12:34:39
+El usuario a visualizó estadísticas de gestos el 2023-04-11 12:34:41
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:34:44
+El usuario a hizo login el 2023-04-11 12:36:20
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:36:21
+El usuario a hizo login el 2023-04-11 12:37:32
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:37:33
+El usuario a hizo login el 2023-04-11 12:38:14
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:38:14
+El usuario a hizo login el 2023-04-11 12:38:35
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:38:37
+El usuario a hizo login el 2023-04-11 12:39:39
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:39:40
+El usuario a hizo login el 2023-04-11 12:41:02
+El usuario a visualizó estadísticas de emociones el 2023-04-11 12:41:03
+El usuario a visualizó estadísticas de gestos el 2023-04-11 12:41:11
+El usuario a hizo login el 2023-04-11 12:41:44
+El usuario a exportó estadísticas de gestos el 2023-04-11 12:41:46
+El usuario a exportó estadísticas de emociones el 2023-04-11 12:41:54
+El usuario a hizo login el 2023-04-11 12:43:05
+El usuario a visualizó estadísticas de emociones el 2023-04-11 12:43:06
+El usuario a hizo login el 2023-04-11 12:53:23
+El usuario a registró gestos el 2023-04-11 12:53:26
+El usuario a registró gestos el 2023-04-11 12:53:30
+El usuario a hizo login el 2023-04-11 12:55:52
+El usuario a registró gestos el 2023-04-11 12:55:54
+El usuario a hizo login el 2023-04-11 13:00:27
+El usuario a registró gestos el 2023-04-11 13:00:28
+El usuario a registró gestos el 2023-04-11 13:00:41
+El usuario a hizo login el 2023-04-11 13:01:46
+El usuario a registró gestos el 2023-04-11 13:01:48
+El usuario a hizo login el 2023-04-11 13:02:34
+El usuario a registró gestos el 2023-04-11 13:02:35
+El usuario a hizo login el 2023-04-11 13:03:09
+El usuario a registró gestos el 2023-04-11 13:03:10
+El usuario a hizo login el 2023-04-11 13:04:48
+El usuario a registró gestos el 2023-04-11 13:04:50
+El usuario a hizo login el 2023-04-11 13:05:40
+El usuario a registró gestos el 2023-04-11 13:05:41
+El usuario a hizo login el 2023-04-11 13:06:35
+El usuario a registró gestos el 2023-04-11 13:06:36
+El usuario a hizo login el 2023-04-11 13:07:20
+El usuario a registró gestos el 2023-04-11 13:07:22
+El usuario a hizo login el 2023-04-11 13:15:01
+El usuario a registró gestos el 2023-04-11 13:15:03
+El usuario a hizo login el 2023-04-11 13:23:53
+El usuario a registró gestos el 2023-04-11 13:23:56
+El usuario a hizo login el 2023-04-11 13:34:23
+El usuario a registró gestos el 2023-04-11 13:34:24
+El usuario a hizo login el 2023-04-11 13:48:58
+El usuario a registró gestos el 2023-04-11 13:49:02
+El usuario a hizo login el 2023-04-11 13:50:19
+El usuario a registró gestos el 2023-04-11 13:50:23
+El usuario a hizo login el 2023-04-11 13:54:56
+El usuario a registró gestos el 2023-04-11 13:54:57
+El usuario a hizo login el 2023-04-11 13:55:37
+El usuario a registró gestos el 2023-04-11 13:55:38
+El usuario a hizo login el 2023-04-11 13:59:24
+El usuario a registró gestos el 2023-04-11 13:59:25
+El usuario a hizo login el 2023-04-11 14:03:44
+El usuario a registró gestos el 2023-04-11 14:03:45
+El usuario a hizo login el 2023-04-11 15:28:46
+El usuario a registró gestos el 2023-04-11 15:28:47
+El usuario a hizo login el 2023-04-11 18:36:36
+El usuario a visualizó estadísticas de gestos el 2023-04-11 18:37:13
+El usuario a exportó estadísticas de gestos el 2023-04-11 18:37:21
+El usuario a hizo login el 2023-04-12 09:07:52
+El usuario a registró gestos el 2023-04-12 09:07:55
+El usuario a hizo login el 2023-04-12 13:10:40
+El usuario a registró gestos el 2023-04-12 13:10:42
+El usuario a hizo login el 2023-04-12 13:12:23
+El usuario a registró gestos el 2023-04-12 13:12:25
+El usuario a hizo login el 2023-04-12 13:15:04
+El usuario a registró gestos el 2023-04-12 13:15:05
+El usuario a hizo login el 2023-04-12 13:19:34
+El usuario a registró gestos el 2023-04-12 13:19:35
+El usuario a hizo login el 2023-04-12 13:25:55
+El usuario a registró gestos el 2023-04-12 13:25:56
+El usuario a hizo login el 2023-04-12 13:42:21
+El usuario a hizo login el 2023-04-12 14:02:57
+El usuario a registró gestos el 2023-04-12 14:02:58
+El usuario a hizo login el 2023-04-12 15:01:45
+El usuario a registró emociones el 2023-04-12 15:01:46
+El usuario a hizo login el 2023-04-12 15:23:25
+El usuario a registró emociones el 2023-04-12 15:23:26
+El usuario a hizo login el 2023-04-12 15:33:08
+El usuario a registró emociones el 2023-04-12 15:33:11
+El usuario a hizo login el 2023-04-12 15:57:57
+El usuario a hizo login el 2023-04-12 16:05:42
+El usuario a hizo login el 2023-04-12 16:21:24
+El usuario a hizo login el 2023-04-12 16:21:45
+El usuario a hizo login el 2023-04-12 16:23:19
+El usuario a hizo login el 2023-04-12 16:26:09
+El usuario a hizo login el 2023-04-12 16:26:58
+El usuario a hizo login el 2023-04-12 16:27:34
+El usuario a hizo login el 2023-04-12 16:31:18
+El usuario a hizo login el 2023-04-12 16:31:51
+El usuario a hizo login el 2023-04-12 16:35:57
+El usuario a hizo login el 2023-04-12 16:36:27
+El usuario a registró gestos el 2023-04-12 16:36:30
+El usuario a hizo login el 2023-04-12 16:41:20
+El usuario a registró gestos el 2023-04-12 16:41:22
+El usuario a hizo login el 2023-04-12 18:21:03
+El usuario a visualizó estadísticas de gestos el 2023-04-12 18:21:04
+El usuario a visualizó estadísticas de emociones el 2023-04-12 18:21:07
+El usuario a exportó estadísticas de gestos el 2023-04-12 18:21:10
+El usuario a exportó estadísticas de emociones el 2023-04-12 18:21:12
+El usuario a registró emociones el 2023-04-12 18:21:17
+El usuario a hizo login el 2023-04-13 15:20:58
+El usuario a visualizó estadísticas de emociones el 2023-04-13 15:21:37
+El usuario a visualizó estadísticas de gestos el 2023-04-13 15:21:47
+El usuario a exportó estadísticas de gestos el 2023-04-13 15:22:12
+El usuario a hizo login el 2023-04-13 15:25:29
